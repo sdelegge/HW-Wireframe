@@ -1,0 +1,111 @@
+
+
+
+
+h1 {
+   padding: 30px 0;
+   margin: 0;
+   margin-bottom: 20px;
+   font-size: 18px;
+  background-color: white;
+   text-align: center;
+   color: rgb(136, 134, 134);
+   font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h2 {
+   padding: 30px 0;
+   margin: 0;
+   margin-bottom: 20px;
+   font-size: 18px;
+  background-color: white;
+   text-align: center;
+   color: rgb(136, 134, 134);
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+
+    background-color: darkgray;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    padding: 12px;
+}
+
+h4 {
+
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(136, 134, 134);
+    text-align: center;
+    
+
+}
+
+
+
+
+h5 {
+
+    
+    margin: 0;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 18px;
+   background-color: white;
+    text-align: center;
+    color: rgb(136, 134, 134);
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    height: 80px;
+    
+}
+
+.wrap {
+    width: 100%;
+}
+
+.floatleft {
+    float:left; 
+    width: 50%;
+    background-color: white;
+    height: 400px;
+    padding: 0px 30px;
+}
+
+.floatright {
+float: right;
+    background-color: white;
+    height: 365px;
+    width: 43%;
+    padding: 14px 0px;
+}
+
+.floatleftbox1 {
+ font-size: 18px;
+  background-color: white;
+   text-align: center;
+   color: rgb(136, 134, 134);
+   font-family: Arial, Helvetica, sans-serif;
+
+
+
+}
+
+body {
+
+    background-color: darkgray;
+}
+
+h6 {
+    font-size: 18px;
+  background-color: white;
+   text-align: center;
+   color: rgb(136, 134, 134);
+   font-family: Arial, Helvetica, sans-serif;
+
+
+}
